@@ -1,1 +1,2 @@
 # DiabetesPrediction3
+Diabetes is the leading cause of death in the world, and it also affects kidney disease,loss of vision, and heart disease. Data mining techniques contribute to health care decisionsfor accurate disease diagnosis and treatment, reducing the workload of experts. Diabetesprediction is a rapidly expanding field of research. Early diabetes prediction will result inimproved treatment. Diabetes causes a variety of health issues. Therefore, it is critical toprevent, monitor, and raise awareness about it.
